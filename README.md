@@ -17,8 +17,7 @@ O algoritmo RSA (Rivest–Shamir–Adleman) é um dos métodos mais conhecidos d
 ## 🛠️ Tecnologias utilizadas
 
 - Python 3
-- Biblioteca `random` e `math` (padrão do Python)
-
+- Biblioteca `os` e `math` 
 ---
 
 ## 📦 Clone o repositório
