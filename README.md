@@ -21,9 +21,7 @@ O algoritmo RSA (Rivest–Shamir–Adleman) é um dos métodos mais conhecidos d
 
 ---
 
-## ▶️ Como executar
-
-1. Clone o repositório:
+## 📦 Clone o repositório
    ```bash
    git clone https://github.com/HenryNovais/Criptografia-RSA.git
-   cd Criptografia-RSA
+
